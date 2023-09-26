@@ -1,0 +1,22 @@
+body
+{
+    background-color: lightgreen;
+}
+
+#score
+{
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+#time1
+{
+font-size: 15px;
+float: right;
+margin-right: 20px;
+}
+
+#sketch
+{
+    color: red;
+}
